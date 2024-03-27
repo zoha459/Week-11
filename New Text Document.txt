@@ -1,0 +1,39 @@
+npm -v
+npm 
+
+
+
+es7+
+
+tailwind  extensions
+
+page tx
+rfce functio*** syntax ---> // rafce ***const`	 
+
+import function frim file
+
+export functions
+
+// const function in js
+
+
+bootstrap
+src pgtext for textinng
+global file for styling
+
+return <div	className="bg cntrl spce "> ----> bg re-- red, texty -- bg-[#code]
+
+cntrl shift c for clr extension
+flex, grid is imp
+h-screen is for 100% height
+
+margin:auto for center
+px, py for x axis and y padding
+
+mx auto
+flex
+justify between
+
+hover: 
+
+
